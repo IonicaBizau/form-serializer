@@ -154,6 +154,11 @@ When the form above will be submitted the following JSON object will be generate
 ### dev
  - features and fixes go here
 
+### v0.2.4
+ - Update to Events v0.1.11
+ - Removed `x` button from error alert
+ - Minor comment changes
+
 ### v0.2.3
  - Updated to Events v0.1.10
 
