@@ -151,8 +151,9 @@ When the form above will be submitted the following JSON object will be generate
 
 # Changelog
 
-### dev
- - features and fixes go here
+### v0.4.0
+ - transferred the module to the new jxMono organization
+ - updated Bind to `v0.4.0`, Events to `v0.4.0`, Utils to `v0.2.0`
 
 ### v0.3.2
  - Updated to Bind `v0.3.3`, Utils `v0.1.8` and Events `v0.3.1`
